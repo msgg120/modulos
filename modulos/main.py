@@ -1,0 +1,2 @@
+calculator.minus
+calculator.plus
